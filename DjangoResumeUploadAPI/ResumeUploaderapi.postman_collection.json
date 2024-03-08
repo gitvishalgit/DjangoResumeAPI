@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "8c97067e-dea8-4a5e-a27e-8bb7095b9e90",
+		"name": "ResumeUploaderapi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28306088"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
